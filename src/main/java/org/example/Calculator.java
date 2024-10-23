@@ -10,4 +10,11 @@ public class Calculator {
         return x - y;
     }
 
+    public static int multiplication(int x, int y){
+        return x * y;
+    }
+
+    public static double division(int x, int y){
+        return x / y;
+    }
 }
